@@ -4,10 +4,12 @@ Beer.js Tallahassee
 ===================
 
 Beer.js Tallahassee is a welcoming get-together for everyone who wants to learn about JavaScript. 
-We meet the third Wednesday of the month. 
+We meet the first Tuesday of the month. 
 That's all the planning we have: whoever shows up decides what happens.
 
-Please note, Beer.js Tallahassee happens at a bar and will require valid photo identification (Drivers License, Passport, etc) to enter.  Don't forget yours!
+* Our first meet up will be at 6:00 PM ET on Tuesday, December 1, 2015 @ Krewe de Gras (1304 N Monroe St, Tallahassee, FL 32303)
+
+Please note, Beer.js Tallahassee happens at a bar and will require valid photo identification (Drivers License, Passport, etc) to enter.  Don't forget yours! Attendees pay for their own food and drinks!  (The conversation is free, everything else you have to pay for.)  
 
 Want to join?
 -------------
