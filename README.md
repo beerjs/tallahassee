@@ -1,3 +1,5 @@
+![Beer.js Tallahassee Logo](https://raw.githubusercontent.com/beerjs/tallahassee/master/img/beerjs-tallahassee.png)
+
 Beer.js Tallahassee
 ===================
 
@@ -10,7 +12,12 @@ Please note, Beer.js Tallahassee happens at a bar and will require valid photo i
 Want to join?
 -------------
 
-Watch this repo to get notified of upcoming meeting dates or date and location changes.
+Go to:  
+
+http://www.meetup.com/beerjs-tallahassee  
+
+Or... watch this repo to get notified of upcoming meeting dates or date and location changes.
+
 
 Want to help?
 -------------
@@ -29,4 +36,4 @@ Why Beer.js Tallahassee?
 Contact
 -------
 
-Steve Gomez on [GitHub](https://github.com/scarabaeus)
+Steve G. on [GitHub](https://github.com/scarabaeus)
