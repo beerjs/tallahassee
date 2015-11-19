@@ -35,6 +35,12 @@ Why Beer.js Tallahassee?
 
 - We are not interested in sponsors, recruiters, or pitches. Leave your company affiliation at the door and come learn with us. To make this a reality, we consciously eliminate any financial dependence or any use the group might have for outsiders. That’s why we meet in free, public places, don't have speakers or planned events, and don't have any online communication. 
 
+
+Other Beer.js Branches
+----------------------
+
+https://github.com/beerjs/meta/blob/master/locations.geojson
+
 Contact
 -------
 
