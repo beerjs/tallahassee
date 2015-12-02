@@ -1,5 +1,5 @@
-December 1 - Beer.js Recap @ Krewe
-==================================
+December 1, 2015 - Beer.js Recap @ Krewe
+========================================
 
 5 people attended our first Beer.js meetup.
 
