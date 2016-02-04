@@ -9,9 +9,9 @@ That's all the planning we have: whoever shows up decides what happens.
 
 Our next meet up will be at `6:00 PM ET on Tuesday, March 1, 2016 @ Krewe de Gras` (1304 N Monroe St, Tallahassee, FL 32303). Look for the guy wearing the bright orange Handlebars.js t-shirt... That'll be Steve.  He'll have a beer waiting for you!
 
-* [February 2, 2016 Recap](https://github.com/beerjs/tallahassee/blob/master/docs/meetup-notes/201602-february-meetup.md)
-* [January 5, 2016 Recap](https://github.com/beerjs/tallahassee/blob/master/docs/meetup-notes/201601-january-meetup.md)
-* [December 1, 2015 Recap](https://github.com/beerjs/tallahassee/blob/master/docs/meetup-notes/201512-december-meetup.md)
+:beers: [February 2, 2016 Recap](https://github.com/beerjs/tallahassee/blob/master/docs/meetup-notes/201602-february-meetup.md)  
+:beers: [January 5, 2016 Recap](https://github.com/beerjs/tallahassee/blob/master/docs/meetup-notes/201601-january-meetup.md)  
+:beers: [December 1, 2015 Recap](https://github.com/beerjs/tallahassee/blob/master/docs/meetup-notes/201512-december-meetup.md)  
 
 Please note, Beer.js Tallahassee happens at a bar and will require valid photo identification (Drivers License, Passport, etc) to enter.  Don't forget yours! Attendees pay for their own food and drinks!  (The conversation is free, everything else you have to pay for.)  
 
