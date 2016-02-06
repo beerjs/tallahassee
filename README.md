@@ -33,11 +33,11 @@ Pull requests welcome!
 Why Beer.js Tallahassee?
 ------------------------
 
-- We welcome JavaScripters of all experience levels, including complete beginners, who seek to learn and meet new friends. 
+:beers: We welcome JavaScripters of all experience levels, including complete beginners, who seek to learn and meet new friends.  
 
-- We do no more planning than needed: come with your own questions or ready to answer others’. 
+:beers: We do no more planning than needed: come with your own questions or ready to answer others’.  
 
-- We are not interested in sponsors, recruiters, or pitches. Leave your company affiliation at the door and come learn with us. To make this a reality, we consciously eliminate any financial dependence or any use the group might have for outsiders. That’s why we meet in free, public places, don't have speakers or planned events, and don't have any online communication, other than this repo and our Meetup group (http://www.meetup.com/beerjs-tallahassee).  
+:beers: We are not interested in sponsors, recruiters, or pitches. Leave your company affiliation at the door and come learn with us. To make this a reality, we consciously eliminate any financial dependence or any use the group might have for outsiders. That’s why we meet in free, public places, don't have speakers or planned events, and don't have any online communication, other than this repo and our Meetup group (http://www.meetup.com/beerjs-tallahassee).  
 
 
 Other Beer.js Branches
